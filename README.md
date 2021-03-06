@@ -1,3 +1,8 @@
+
+# Link to Medium Article
+https://pub.towardsai.net/time-series-prediction-of-bitcoin-price-using-lstms-b8a6455d8143
+
+
 # Bitcoin-Price-Prediction-LSTM
 
 
